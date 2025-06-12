@@ -1,0 +1,1 @@
+print("Siema!, to jest test tego jak działa github, TEST_02")
