@@ -1,3 +1,3 @@
-print("Siema!, to jest test tego jak działa github, TEST_02")
+print("siema")
 
 print("Siemaneczko!, to jest moja druga linijeczka")
